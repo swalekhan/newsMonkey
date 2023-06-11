@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "One of Central America's most active volcanoes erupts",
+            "description": "Guatemala's Fuego forces authorities to close the country's largest airport and a major highway.",
+            "url": "http://www.bbc.co.uk/news/world-latin-america-63939229",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17EF5/production/_127973089_p0dnk8k6.jpg",
+            "publishedAt": "2022-12-12T04:07:20.7863525Z",
+            "content": "Guatemala's Fuego volcano erupted on Sunday, releasing a huge plume of ash and smoke into the air.\r\nThe volcano overlooks the tourist city of Antigua, and is one of the region's most active volcanoes… [+105 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Twitter's paid blue tick re-launches after pause",
+            "description": "Twitter will once again offer a blue tick badge and additional features for a monthly fee.",
+            "url": "http://www.bbc.co.uk/news/technology-63938566",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/63B7/production/_127972552_screenshot_20221211-195519.png",
+            "publishedAt": "2022-12-12T03:52:17.7239045Z",
+            "content": "Twitter's paid-for verification feature is rolling out once again on Monday. It was paused last month after being swamped by impersonators.\r\nIt is still $8 per month - but there is now an increased f… [+3096 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Italy shooting: Three women shot dead in Rome cafe",
+            "description": "A friend of Italian Prime Minister Giorgia Meloni is among three women killed in Sunday's attack.",
+            "url": "http://www.bbc.co.uk/news/world-europe-63939426",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12969/production/_127973167_romeepa.jpg",
+            "publishedAt": "2022-12-12T03:37:19.1617309Z",
+            "content": "Three women including a friend of Italy's new prime minister were killed when a man opened fire at a cafe in Rome, injuring four other people.\r\nThose inside were meeting as part of a local block's re… [+2129 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Peru protests: Andahuaylas airport forced to close in deadly unrest",
+            "description": "Andahuaylas airport is forced to shut as protests continue over the impeachment of President Castillo.",
+            "url": "http://www.bbc.co.uk/news/world-latin-america-63935929",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/110C3/production/_127972896_mediaitem127972895.jpg",
+            "publishedAt": "2022-12-11T23:37:20.4438169Z",
+            "content": "An airport in Peru has been closed and one person has been killed in violent protests, authorities have said. \r\nPictures on social media media showed smoke billowing from Andahuaylas airport in the s… [+1514 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "UK weather: All flights suspended at Stansted Airport",
+            "description": "Heathrow and Gatwick also cancel flights after fog and snow sweeps the country.",
+            "url": "http://www.bbc.co.uk/news/business-63938958",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15E7F/production/_127972798_gettyimages-899966168.jpg",
+            "publishedAt": "2022-12-11T22:52:19.9429391Z",
+            "content": "All flights have been suspended at Stansted Airport after it was forced to close its runway due to bad weather.\r\nHeathrow and Gatwick have also cancelled or delayed flights after snow, ice and freezi… [+3862 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Kosovo: Roads blocked as violence between Serb protestors and police continues",
+            "description": "Tensions between the authorities and Kosovo's Serb minority have risen in recent weeks.",
+            "url": "http://www.bbc.co.uk/news/world-europe-63936840",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/018C/production/_127969300_mediaitem127969299.jpg",
+            "publishedAt": "2022-12-11T18:07:25.5835871Z",
+            "content": "Serb protesters in northern Kosovo blocked roads for a second day on Sunday following an exchange of fire with police.\r\nTrucks and other heavy-duty vehicles blocked several main roads leading to two … [+2250 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Nasa's Orion capsule makes safe return to Earth",
+            "description": "After a 26-day flight around the Moon, Nasa's future astronaut ship parachutes into the Pacific.",
+            "url": "http://www.bbc.co.uk/news/science-environment-63937345",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/148B2/production/_111764148_breaking-promo.png",
+            "publishedAt": "2022-12-11T17:52:26.5829128Z",
+            "content": "The American space agency Nasa has brought home its next-generation astronaut ship after a near-26-day mission to orbit the Moon.\r\nThe Orion capsule splashed down in the Pacific Ocean after a fiery r… [+4172 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Four suspects charged in probe into European Parliament bribery by Gulf state",
+            "description": "A Gulf state - reportedly Qatar - is accused of attempting to bribe parliament officials.",
+            "url": "http://www.bbc.co.uk/news/world-europe-63936360",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C090/production/_127969294_mediaitem127969293.jpg",
+            "publishedAt": "2022-12-11T15:07:22.2864263Z",
+            "content": "Four people have been charged in an investigation into suspected bribery at the European Parliament by a Gulf state - reportedly Qatar.\r\nGreek MEP and European Parliament Vice President Eva Kaili was… [+2758 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Lockerbie bombing suspect in US custody",
+            "description": "The Libyan man is accused of making the bomb which destroyed Pan Am 103 over Lockerbie.",
+            "url": "http://www.bbc.co.uk/news/uk-scotland-63933837",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0E83/production/_115651730_breaking-promo-976.png",
+            "publishedAt": "2022-12-11T12:22:22.2563324Z",
+            "content": "A Libyan man accused of making the bomb which destroyed Pan Am flight 103 over Lockerbie 34 years ago is in United States custody.\r\nThe US announced charges against Abu Agila Masud two years ago, all… [+1648 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ukraine war: Odesa and Melitopol under attack",
+            "description": "Russian drone attacks leave 1.5 million Ukrainians without power and Kyiv bombards occupied Melitopol.",
+            "url": "http://www.bbc.co.uk/news/world-europe-63933132",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17102/production/_127966449_melitopol.png",
+            "publishedAt": "2022-12-11T06:07:21.2489116Z",
+            "content": "Southern Ukraine has been hit by strikes from both sides in the war, with Russia launching drones at Odesa and Kyiv fighting back in Melitopol.\r\nThe Ukrainian army said it shot down 10 drones on Satu… [+1389 chars]"
+        }
+    ]
+}
